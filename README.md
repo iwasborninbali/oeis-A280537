@@ -1,5 +1,14 @@
 # OEIS A280537: no four coplanar points in a cube
 
+<!-- oeis-status:begin -->
+**OEIS status** (lab registry, 13 Nov 2026):
+
+- [A280537](https://oeis.org/A280537), a(12) >= 31 and a(n) <= 3n (comment of 23 Aug 2026): **approved** (2026-08-23: approved). Certificate: complete.
+- [A280537](https://oeis.org/A280537), link to the repository; a(21) >= 47, a(22) >= 49, a(27) >= 56: **queued** (2026-11-13: queued). Certificate: complete.
+
+Rules and the full registry: [athanor-oeis](https://github.com/iwasborninbali/athanor-oeis/blob/main/REGISTRY.md).
+<!-- oeis-status:end -->
+
 [A280537](https://oeis.org/A280537) gives the maximum number of points in an n × n × n grid with no four in a plane. The sequence, beginning at n=2, is 5, 8, 10, 13, 16, 18, 20. The OEIS says terms through a(6) were found by exhaustive search, while a(7) and a(8) rest on extensive numerical evidence.
 
 Aleksei Kudriashov's 23 August 2026 OEIS comment gives a(12) ≥ 31 and a(n) ≤ 3n, since every coordinate plane contains at most three points. The [attached file](https://oeis.org/A280537/a280537_4.txt) on the OEIS, credited to Moritz Franckenstein, Aleksei Kudriashov, and Hugo Pfoertner, contains 13 configurations for nonprime sizes between 8 and 18; it states individual credit for n=12, 14, 15, 16 and 18. In particular the n=18 configurations have 43 points; a later 41-point witness is not an improvement.
