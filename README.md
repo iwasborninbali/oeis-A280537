@@ -17,6 +17,8 @@ Later witnesses in `witnesses/` establish a(21) ≥ 47, a(22) ≥ 49 and a(27) �
 
 ## Rechecking
 
+[Verification certificate](CERTIFICATE.md) and [prior-art record](PRIOR-ART.md).
+
 ```sh
 curl -s -o witnesses/oeis-a280537_4.txt https://oeis.org/A280537/a280537_4.txt   # the OEIS file is not redistributed here
 python3 -B check_oeis.py

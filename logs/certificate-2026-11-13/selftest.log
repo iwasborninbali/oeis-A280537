@@ -1,0 +1,11 @@
+cwd: /Users/iwasborninbali/projects/science/oeis-A280537
+command: python3 -B witnesses/verify_witness_2.py --selftest
+exit: 0
+elapsed_seconds: 0.037
+
+PASS clean n=5 accepted
+PASS wrong count rejected
+PASS wrong cube rejected
+PASS planted coplanar quadruple rejected
+PASS collinear triple rejected
+PASS duplicate rejected

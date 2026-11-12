@@ -1,0 +1,22 @@
+cwd: /Users/iwasborninbali/projects/science/oeis-A280537
+command: python3 -B witnesses/verify_witness_2.py --all witnesses
+exit: 0
+elapsed_seconds: 0.197
+
+witness_n11_28_c06_ord3_long.txt             n=11  expected=28   OK   clean: 28 points, no collinear triple, no coplanar quadruple
+witness_n11_28_first_solver.txt              n=11  expected=28   OK   clean: 28 points, no collinear triple, no coplanar quadruple
+witness_n12_31_record.txt                    n=12  expected=31   OK   clean: 31 points, no collinear triple, no coplanar quadruple
+witness_n21_47_record.txt                    n=21  expected=47   OK   clean: 47 points, no collinear triple, no coplanar quadruple
+witness_n22_49_record.txt                    n=22  expected=49   OK   clean: 49 points, no collinear triple, no coplanar quadruple
+witness_n27_56_record.txt                    n=27  expected=56   OK   clean: 56 points, no collinear triple, no coplanar quadruple
+witness_n5.txt                               n=5   expected=None OK   clean: 13 points, no collinear triple, no coplanar quadruple
+witness_n7_18_c03_ord2_strata.txt            n=7   expected=18   OK   clean: 18 points, no collinear triple, no coplanar quadruple
+witness_n7_18_c06_ord3_strata.txt            n=7   expected=18   OK   clean: 18 points, no collinear triple, no coplanar quadruple
+witness_n7_18_first_solver.txt               n=7   expected=18   OK   clean: 18 points, no collinear triple, no coplanar quadruple
+witness_n8_20_c03_ord2_strata.txt            n=8   expected=20   OK   clean: 20 points, no collinear triple, no coplanar quadruple
+witness_n8_20_c06_ord3_strata.txt            n=8   expected=20   OK   clean: 20 points, no collinear triple, no coplanar quadruple
+witness_n8_20_first_solver.txt               n=8   expected=20   OK   clean: 20 points, no collinear triple, no coplanar quadruple
+witness_n9_23_c06_ord3_long.txt              n=9   expected=23   OK   clean: 23 points, no collinear triple, no coplanar quadruple
+witness_n9_23_c06_ord3_strata.txt            n=9   expected=23   OK   clean: 23 points, no collinear triple, no coplanar quadruple
+witness_n9_23_first_solver.txt               n=9   expected=23   OK   clean: 23 points, no collinear triple, no coplanar quadruple
+16 witnesses, 16 clean
