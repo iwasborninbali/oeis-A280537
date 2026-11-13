@@ -1,10 +1,10 @@
 # OEIS A280537: no four coplanar points in a cube
 
 <!-- oeis-status:begin -->
-**OEIS status** (lab registry, 13 Nov 2026):
+**OEIS status** (lab registry, 14 Nov 2026):
 
 - [A280537](https://oeis.org/A280537), a(12) >= 31 and a(n) <= 3n (comment of 23 Aug 2026): **approved** (2026-08-23: approved). Certificate: complete.
-- [A280537](https://oeis.org/A280537), link to the repository; a(21) >= 47, a(22) >= 49, a(27) >= 56: **proposed** (2026-11-13: submitted: link to oeis-A280537 with a(21) >= 47, a(22) >= 49, a(27) >= 56 in its title). Certificate: complete.
+- [A280537](https://oeis.org/A280537), link to the repository; a(21) >= 47, a(22) >= 49, a(27) >= 56: **proposed** (2026-11-14: 2026-11-13 13:38 EST: editor Andrew Howroyd set the link text to the repository page's title ('OEIS A280537: no four coplanar points in a cube'), edits #55-#56; no reply needed, nothing to change on our side). Certificate: complete.
 
 Rules and the full registry: [athanor-oeis](https://github.com/iwasborninbali/athanor-oeis/blob/main/REGISTRY.md).
 <!-- oeis-status:end -->
