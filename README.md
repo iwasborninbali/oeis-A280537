@@ -1,7 +1,7 @@
 # OEIS A280537: no four coplanar points in a cube
 
 <!-- oeis-status:begin -->
-**OEIS status** (lab registry, 14 Nov 2026):
+**OEIS status** (lab registry, 15 Nov 2026):
 
 - [A280537](https://oeis.org/A280537), a(12) >= 31 and a(n) <= 3n (comment of 23 Aug 2026): **approved** (2026-08-23: approved). Certificate: complete.
 - [A280537](https://oeis.org/A280537), link to the repository; a(21) >= 47, a(22) >= 49, a(27) >= 56: **approved** (2026-11-14: repository tagged oeis-approved-2026-11-14 and archived at Zenodo: note v4.4 with the repository snapshot, 10.5281/zenodo.24223674 (concept 10.5281/zenodo.22023079)). Certificate: complete.
