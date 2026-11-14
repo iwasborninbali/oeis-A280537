@@ -4,7 +4,7 @@
 **OEIS status** (lab registry, 14 Nov 2026):
 
 - [A280537](https://oeis.org/A280537), a(12) >= 31 and a(n) <= 3n (comment of 23 Aug 2026): **approved** (2026-08-23: approved). Certificate: complete.
-- [A280537](https://oeis.org/A280537), link to the repository; a(21) >= 47, a(22) >= 49, a(27) >= 56: **proposed** (2026-11-14: 2026-11-14 09:56 EST: editor Michel Marcus changed http to https in three older links (Wolfram Demonstrations, Math StackExchange, AZsPCs), edits #57-#58, status back to proposed; no reply needed, nothing to change on our side). Certificate: complete.
+- [A280537](https://oeis.org/A280537), link to the repository; a(21) >= 47, a(22) >= 49, a(27) >= 56: **approved** (2026-11-14: repository tagged oeis-approved-2026-11-14 and archived at Zenodo: note v4.4 with the repository snapshot, 10.5281/zenodo.24223674 (concept 10.5281/zenodo.22023079)). Certificate: complete.
 
 Rules and the full registry: [athanor-oeis](https://github.com/iwasborninbali/athanor-oeis/blob/main/REGISTRY.md).
 <!-- oeis-status:end -->
@@ -13,7 +13,7 @@ Rules and the full registry: [athanor-oeis](https://github.com/iwasborninbali/at
 
 Aleksei Kudriashov's 23 August 2026 OEIS comment gives a(12) ≥ 31 and a(n) ≤ 3n, since every coordinate plane contains at most three points. The [attached file](https://oeis.org/A280537/a280537_4.txt) on the OEIS, credited to Moritz Franckenstein, Aleksei Kudriashov, and Hugo Pfoertner, contains 13 configurations for nonprime sizes between 8 and 18; it states individual credit for n=12, 14, 15, 16 and 18. In particular the n=18 configurations have 43 points; a later 41-point witness is not an improvement.
 
-Later witnesses in `witnesses/` establish a(21) ≥ 47, a(22) ≥ 49 and a(27) ≥ 56, alongside the 31-point n=12 witness; the research note compares them with the 2017 OEIS bounds and with the results of Al Zimmermann's 2016 contest, and these four are the improvements. `A280537_no4coplanar_cube.txt` holds configurations for every n = 9..25, 27, 29; the others confirm or fall below known bounds. The full research note and other bounds are in [paper/a280537_note.tex](paper/a280537_note.tex), archived at [Zenodo 10.5281/zenodo.22023079](https://doi.org/10.5281/zenodo.22023079). These witnesses establish lower bounds, not optimality. The earlier sequence author is Hugo Pfoertner; Walter Möhres is credited for the exhaustive n=6 search.
+Later witnesses in `witnesses/` establish a(21) ≥ 47, a(22) ≥ 49 and a(27) ≥ 56, alongside the 31-point n=12 witness; the research note compares them with the 2017 OEIS bounds and with the results of Al Zimmermann's 2016 contest, and these four are the improvements. `A280537_no4coplanar_cube.txt` holds configurations for every n = 9..25, 27, 29; the others confirm or fall below known bounds. The full research note and other bounds are in [paper/a280537_note.tex](paper/a280537_note.tex), archived at Zenodo: all versions [10.5281/zenodo.22023079](https://doi.org/10.5281/zenodo.22023079); version 4.4, with a snapshot of this repository at tag `oeis-approved-2026-11-14`, [10.5281/zenodo.24223674](https://doi.org/10.5281/zenodo.24223674). These witnesses establish lower bounds, not optimality. The earlier sequence author is Hugo Pfoertner; Walter Möhres is credited for the exhaustive n=6 search.
 
 ## Rechecking
 
